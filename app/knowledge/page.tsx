@@ -3,7 +3,7 @@ import { PageHeader } from '@/components/SiteChrome';
 import { ARTICLES } from '@/lib/site-data';
 
 export const metadata: Metadata = {
-  title: 'Knowledge Article | TalentDuct Recruitment',
+  title: 'Knowledge Articles | TalentDuct Recruitment',
   description: 'Guidance for candidates and clients on how our recruitment process works.',
 };
 
@@ -15,7 +15,7 @@ export default function KnowledgePage() {
     <>
       <PageHeader
         eyebrow="Guidance"
-        title="Knowledge Article"
+        title="Knowledge Articles"
         intro="Answers to the questions we are asked most often. If what you need is not here, the assistant on this page can help, and will lodge a case if it cannot."
       />
 
