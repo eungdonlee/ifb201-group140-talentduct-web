@@ -36,3 +36,6 @@ including Salesforce setup and Vercel deployment.
 
 TalentDuct Recruitment is fictional. Every requisition, recruiter, client and
 figure in `lib/site-data.ts` is invented for teaching purposes.
+
+
+Menu updated: Knowledge Articles (Task 6-1)
